@@ -1,7 +1,5 @@
 # Heart Attack Analysis with Python and PySpark
 
-![Heart](https://image-link.com) <!-- Replace with a relevant image link -->
-
 ## Overview
 
 This repository contains a comprehensive analysis of heart attack data using Python and PySpark. The project aims to explore patterns, risk factors, and predictive modeling for heart attacks based on a dataset.
